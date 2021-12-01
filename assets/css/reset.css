@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 html {
@@ -62,7 +63,7 @@ p {
 
 /*Responsive Table*/
 .responsive-table {
-  overflow-x: auto;
+  overflow-y: auto;
 }
 
 table {
